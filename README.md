@@ -13,5 +13,5 @@ GillesRitchmond/GillesRitchmond is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GillesRitchmond&show_icons=true&theme=gotham" alt="GillesRitchmond's github stats" /></a> | <a href="https://github.com/clm-msch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesRitchmond&layout=compact&theme=gotham&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GillesRitchmond&show_icons=true&theme=gotham&hide_border=true" alt="GillesRitchmond's github stats" /></a> | <a href="https://github.com/clm-msch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesRitchmond&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
