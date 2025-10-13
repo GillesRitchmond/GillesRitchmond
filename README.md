@@ -16,37 +16,23 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GillesRitchmond&show_icons=true&theme=gotham&hide_border=true" alt="GillesRitchmond's github stats" /></a> | <a href="https://github.com/clm-msch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesRitchmond&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-# Ritch — UI/UX Designer & Full-Stack Developer
+<h1 align="center">Gilles Ritchmond — UI/UX & Full-Stack</h1>
 
-<details open>
-<summary>🇫🇷 À propos</summary>
-
-- Designer & développeur **Next.js / TypeScript**  
-- **Éco-conception** : sobriété, perfs, UX accessible  
-- Basée à Paris, projets web & outils dev
-
-**Liens** : [Portfolio](https://gillesritchmond.github.io) · [WebGoesGreen](https://webgoesgreen.fr)
-</details>
-
-<details>
-<summary>🇬🇧 About</summary>
-
-- UI/UX designer & **full-stack developer (Next.js / TypeScript)**  
-- **Sustainable web** advocate: performance, accessibility, frugal design  
-- Based in Paris — building web apps & developer tools
-
-**Links**: [Portfolio](https://gillesritchmond.github.io) · [WebGoesGreen](https://webgoesgreen.fr)
-</details>
+<p align="center">
+  Next.js · TypeScript · Node.js · MongoDB · Tailwind · shadcn/ui · Vercel
+  <br/>
+  <a href="https://gillesritchmond.github.io">Portfolio</a> ·
+  <a href="https://webgoesgreen.fr">Web éco-responsable</a>
+</p>
 
 ---
 
-### Toolbox
-`Next.js (App Router)` · `React` · `TypeScript` · `Node.js` · `MongoDB` · `Stripe` · `Auth`  
-`Tailwind` · `shadcn/ui` · `Figma` · `Vercel` · `OVH` · `Make / n8n`
+### Sélection de travaux
+| Domaine | Description |
+|---|---|
+| 🧰 Outils Dev | CLI **scrape → export CSV/JSON**, **compression images** (Sharp) |
+| ⚡ Web App | **Comparateur d’énergie** (data modèles avancés, Next.js) |
+| 📚 Docs | Portails docs (Nextra/Next.js), design system |
 
-### Now
-- Building a **scrape/export CLI** and **image compression** tools  
-- Energy **pricing comparator** with complex data models  
-- Migrating docs and design systems
-
-> Open to **collabs** that need clean design + pragmatic engineering.
+### Valeurs
+- **Clarté** (UX), **Perf** (tech), **Sobriété** (éthique)
