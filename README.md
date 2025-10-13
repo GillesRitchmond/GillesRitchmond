@@ -16,38 +16,37 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GillesRitchmond&show_icons=true&theme=gotham&hide_border=true" alt="GillesRitchmond's github stats" /></a> | <a href="https://github.com/clm-msch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesRitchmond&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
+# Ritch — UI/UX Designer & Full-Stack Developer
 
-# Salut, moi c’est Ritch (Gilles Ritchmond)
+<details open>
+<summary>🇫🇷 À propos</summary>
 
-Designer UI/UX & Développeur Full-Stack — je conçois des interfaces sobres, performantes et éco-responsables.  
-J’aime transformer des idées en produits concrets, maintenables et utiles.
+- Designer & développeur **Next.js / TypeScript**  
+- **Éco-conception** : sobriété, perfs, UX accessible  
+- Basée à Paris, projets web & outils dev
 
-- 🎯 Spécialités : **Next.js (App Router)**, **TypeScript**, **Node.js**, **MongoDB**, **Stripe**, **Auth**
-- 🌿 Éco-conception : performance, sobriété, accessibilité, design system frugal
-- 🧪 En ce moment : outillage CLI (scrape/export), comparateur énergie, docs Dev
-
-**Liens**
-- 🌍 Portfolio : https://gillesritchmond.github.io  
-- ♻️ Web éco-responsable : https://webgoesgreen.fr  
-- ✉️ Contact : gillesritchmond.github.io#contact
-
----
-
-### Stack & outils
-`Next.js` · `TypeScript` · `React` · `Node.js` · `MongoDB` · `Mongoose` · `Stripe` · `Auth`  
-`Shadcn/UI` · `TailwindCSS` · `Vercel` · `OVH` · `N8N/Make` · `Figma` · `Adobe CC`
-
-### Valeurs
-- **Simplicité** → aller à l’essentiel
-- **Performance** → moins d’octets, plus d’impact
-- **Design utile** → lisible, accessible, maintenable
-
----
+**Liens** : [Portfolio](https://gillesritchmond.github.io) · [WebGoesGreen](https://webgoesgreen.fr)
+</details>
 
 <details>
-  <summary>⚙️ Statistiques & langages (optionnel)</summary>
+<summary>🇬🇧 About</summary>
 
-[![Ritch’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GillesRitchmond&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GillesRitchmond&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- UI/UX designer & **full-stack developer (Next.js / TypeScript)**  
+- **Sustainable web** advocate: performance, accessibility, frugal design  
+- Based in Paris — building web apps & developer tools
 
+**Links**: [Portfolio](https://gillesritchmond.github.io) · [WebGoesGreen](https://webgoesgreen.fr)
 </details>
+
+---
+
+### Toolbox
+`Next.js (App Router)` · `React` · `TypeScript` · `Node.js` · `MongoDB` · `Stripe` · `Auth`  
+`Tailwind` · `shadcn/ui` · `Figma` · `Vercel` · `OVH` · `Make / n8n`
+
+### Now
+- Building a **scrape/export CLI** and **image compression** tools  
+- Energy **pricing comparator** with complex data models  
+- Migrating docs and design systems
+
+> Open to **collabs** that need clean design + pragmatic engineering.
