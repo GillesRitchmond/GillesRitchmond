@@ -16,23 +16,23 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GillesRitchmond&show_icons=true&theme=gotham&hide_border=true" alt="GillesRitchmond's github stats" /></a> | <a href="https://github.com/clm-msch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesRitchmond&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-<h1 align="center">Gilles Ritchmond — UI/UX & Full-Stack</h1>
+# Ritch — UI/UX + Full-Stack
 
-<p align="center">
-  Next.js · TypeScript · Node.js · MongoDB · Tailwind · shadcn/ui · Vercel
-  <br/>
-  <a href="https://gillesritchmond.github.io">Portfolio</a> ·
-  <a href="https://webgoesgreen.fr">Web éco-responsable</a>
-</p>
+[![Next.js](https://img.shields.io/badge/Next.js-15-black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)]()
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)]()
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-informational)]()
 
----
+- Design utile, sobre et accessible  
+- Dev pragmatique : qualité, perfs, DX
 
-### Sélection de travaux
-| Domaine | Description |
-|---|---|
-| 🧰 Outils Dev | CLI **scrape → export CSV/JSON**, **compression images** (Sharp) |
-| ⚡ Web App | **Comparateur d’énergie** (data modèles avancés, Next.js) |
-| 📚 Docs | Portails docs (Nextra/Next.js), design system |
+**Liens** : [Portfolio](https://gillesritchmond.github.io) · [WebGoesGreen](https://webgoesgreen.fr)
 
-### Valeurs
-- **Clarté** (UX), **Perf** (tech), **Sobriété** (éthique)
+<details>
+  <summary>Stats (optionnel)</summary>
+
+![stats](https://github-readme-stats.vercel.app/api?username=GillesRitchmond&show_icons=true&theme=tokyonight&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GillesRitchmond&layout=compact&theme=tokyonight&hide_border=true)
+
+</details>
